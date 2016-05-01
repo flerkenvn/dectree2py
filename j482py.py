@@ -3,7 +3,6 @@ import re, os, sys
 
 varlist = list()
 returntype = "string"
-
 header = "#!/usr/bin/python3\n"
 
 def getResult(line):
