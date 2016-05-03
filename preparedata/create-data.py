@@ -65,9 +65,9 @@ def getcharname(char):
 	if char == '.':
 		return 'dot'
 	if char == '?':
-		return quest
+		return 'quest'
 	if char == '!':
-		return exclam
+		return 'exclam'
 	if char == ':':
 		return 'colon'
 	return None
